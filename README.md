@@ -1,7 +1,7 @@
 # OS Assignment
 
 ### Links
-- [## Cigarette-Smokers-Problem] Cigarette Smokers Problem
+- [Cigarette Smokers Problem](## Cigarette-Smokers-Problem)
 
 ## Cigarette-Smokers-Problem
 
