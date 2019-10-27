@@ -1,5 +1,8 @@
 # OS Assignment
 
+### Links
+- [## Cigarette-Smokers-Problem] Cigarette Smokers Problem
+
 ## Cigarette-Smokers-Problem
 
 Four threads are involved: an agent and three smokers. The smokers loop forever, first waiting for
