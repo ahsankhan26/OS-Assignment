@@ -1,7 +1,7 @@
 # OS Assignment
 
 ### Links
-- [Contribution guidelines for this project](##Cigarette-Smokers-Problem)
+- [Contribution guidelines for this project](##Producer Consumer Problem)
 
 ## Cigarette Smokers Problem
 
