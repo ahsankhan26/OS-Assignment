@@ -1,7 +1,7 @@
 # OS Assignment
 
 ### Links
-- [Producer-Consumer-Problem](##Producer-Consumer-Problem)
+- [Producer-Consumer-Problem](#Producer-Consumer-Problem)
 
 ## Cigarette Smokers Problem
 
@@ -26,6 +26,7 @@ The restriction imposed on the system is you are not allowed to modify the agent
 represents an operating system, it makes sense to assume that you don’t want to modify it every
 time a new application comes along. So the abilities of the agent remain as defined in the problem.
 
+<a name="Producer-Consumer-Problem">
 ## Producer Consumer Problem
 
 In this problem, two processes, one called the producer and the other called the consumer, run concurrently and
@@ -36,6 +37,7 @@ buffer. The two processes also must not access the buffer at the same time, for 
 item from the slot into which the producer is depositing an item, the consumer might get only part of the item. Any
 solution to this problem must ensure none of the above three events occur. Because the buffer has a maximum size,
 this problem is often called the bounded buffer problem.
+</a>
 
 ## The Barbershop Problem
 
