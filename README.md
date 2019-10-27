@@ -1,9 +1,9 @@
 # OS Assignment
 
 ### Links
-- [Contribution guidelines for this project](Cigarette-Smokers-Problem)
+- [Contribution guidelines for this project](##Cigarette-Smokers-Problem)
 
-## Cigarette-Smokers-Problem
+## Cigarette Smokers Problem
 
 Four threads are involved: an agent and three smokers. The smokers loop forever, first waiting for
 ingredients, then making and smoking cigarettes. The ingredients are tobacco, paper, and matches.
