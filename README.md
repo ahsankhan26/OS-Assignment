@@ -14,3 +14,8 @@ There are 4 threads:
 - Smoker with Paper
 
 Agent randomly spawns 2 ingredients and only the smoker who needs both ingredients should pick and smoke
+
+## Producer Consumer Problem
+
+Producer checks if the buffer is not full and produces an item which on the other hand Consumer checks whether there is an item on the buffer for consumption.
+I've used semaphores to enforce synchronization on resource sharing.
